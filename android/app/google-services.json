@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "833530451850",
+    "firebase_url": "https://weifangyingxiang.firebaseio.com",
+    "project_id": "weifangyingxiang",
+    "storage_bucket": "weifangyingxiang.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833530451850:android:6863e6a4b0b2cfa1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_sam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833530451850-sti536a6sp91tbvj8qtkc7v2d544fccj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_sam",
+            "certificate_hash": "84372cdf11e785d582f7f5f87419caf50ee7cd02"
+          }
+        },
+        {
+          "client_id": "833530451850-2eti0d3apin4k7lco9t7bq1h0vlhv2ov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCu8Dd-w2yZPMjOY1D-fRutZLEMZ8zKSc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833530451850-2eti0d3apin4k7lco9t7bq1h0vlhv2ov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
